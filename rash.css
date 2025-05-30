@@ -1,0 +1,28 @@
+body{
+background-color:black;
+overflow: hidden;
+font-family:Times New Roman;
+margin:150px;
+}
+.card{
+border:solid 1px black;
+background:cyan;
+}
+label{
+font-size:20px;
+}
+input {
+width: 45%;
+height:auto;
+font-size:20px;
+font-family:Times New Roman;
+margin:10px;
+}
+button{
+background:black;
+color:white;
+border-radius:6px;
+font-size:20px;
+font-family:Times New Roman;
+margin:10px;
+}
